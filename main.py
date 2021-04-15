@@ -1,6 +1,6 @@
 '''
     Author: Aryan
-    Date: 14 march
+    Project Started Date: 14 April 2021
     Purpose: Make Tic tac toe for single and double players
 '''
 from PIL import Image , ImageTk
