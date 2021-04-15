@@ -450,7 +450,7 @@ def title1():
         n=0
     else:
         n+=1
-    title.after(2000,title1) 
+    title.after(1500,title1) 
 if __name__ == '__main__':
     window = GUI(600,500,"TIc Tac Toe",(500,600),(500,600))
     window.config(bg="white")
